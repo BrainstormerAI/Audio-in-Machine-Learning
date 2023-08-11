@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #transcript {
+    background-color: transparent;
+    /* height: ; */
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 26px;
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); */
+  }
